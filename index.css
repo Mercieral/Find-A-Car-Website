@@ -1,0 +1,47 @@
+h1 {
+	text-align: center;
+}
+body{
+	background-color: #999966;
+}
+#topBanner{
+	background-color: gray;
+}
+#leftsideBanner{
+	width: 200px;
+	background-color:#D6D6C2; 
+	height: 550px;
+	float: left;
+}
+#rightsideBanner{
+	width: 250px;
+	background-color:#D6D6C2; 
+	float: right;
+}
+.formstuff{
+	margin: 5px;
+}
+#topLine{
+	text-align: center;
+	margin-bottom: 1%;
+}
+#under{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#under > p{
+	padding-bottom: 1%;
+}
+#subSection{
+	background-color: white;
+	text-align: center;
+	height: 500px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 1%;
+}
+#searchCar{
+	text-align: center;
+	width: 75%;
+}

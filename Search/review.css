@@ -1,0 +1,81 @@
+h1 {
+	text-align: center;
+}
+body {
+	background-color: #999966;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#accountBanner {
+	text-align: center;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: auto;
+	background-color: #D6D6C2;
+	padding: 5px;
+	padding-top: 1px;
+	border: 1px black dashed;
+}
+#accountBanner  h1 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#rightSide {
+	width: 20%;
+	display:inline-block;
+	text-align: right;
+	margin-right: auto;
+	float:right;
+}
+#topBanner {
+	text-align: center;
+	background-color: #D6D6C2;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	height: 60px;
+}
+#topBanner h1 {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #D6D6C2;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 80%;
+	text-align: center;
+	display: inline-block;
+}
+.homeIcon {
+	margin-top: auto;
+	margin-bottom: auto;
+	display: inline-block;
+	padding-bottom: 5px;
+}
+.homeIcon img {
+	height: 50px;
+	width: 50px;
+}
+#mainBody {
+	display: inline-block;
+	width: 70%;
+	height: 80%;
+	background-color: #D6D6C2;
+	vertical-align: top;
+	margin-left: 5%;
+	margin-right: auto;
+}
+#mainBody h3{
+	text-align: center;
+}
+
+.attr{
+	font-size: 16px;
+	color: red;
+}
+.review{
+	margin-bottom: 20px;
+	border-bottom: solid 2px black;
+}
+
+.review p{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
